@@ -1,0 +1,13 @@
+C:\Users\Giro\source\repos\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\Giro\source\repos\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\Giro\source\repos\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\Giro\source\repos\Exam\Exam\bin\Debug\EPPlus.dll
+C:\Users\Giro\source\repos\Exam\Exam\bin\Debug\EPPlus.xml
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.Form1.resources
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.csproj.CopyComplete
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\Giro\source\repos\Exam\Exam\obj\Debug\Exam.pdb
